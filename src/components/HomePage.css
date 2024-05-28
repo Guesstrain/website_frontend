@@ -1,0 +1,41 @@
+/* src/components/HomePage.css */
+.homepage-content {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .header h1 {
+    font-size: 2.5rem;
+    color: #333;
+  }
+  
+  .header p {
+    font-size: 1.2rem;
+    color: #666;
+  }
+  
+  .about-me h2,
+  .interests h2,
+  .contact h2 {
+    font-size: 2rem;
+    color: #333;
+    margin-top: 40px;
+  }
+  
+  .about-me p,
+  .interests p,
+  .contact p {
+    font-size: 1.2rem;
+    color: #666;
+  }
+  
+  .profile-picture {
+    text-align: center;
+    margin-top: 40px;
+  }
+  
+  .profile-picture img {
+    border-radius: 50%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
